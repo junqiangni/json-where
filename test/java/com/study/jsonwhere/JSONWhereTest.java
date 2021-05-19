@@ -1,4 +1,4 @@
-package com.jsonwhere;
+package com.study.jsonwhere;
 
 import net.sf.jsqlparser.JSQLParserException;
 import net.sf.jsqlparser.expression.Expression;

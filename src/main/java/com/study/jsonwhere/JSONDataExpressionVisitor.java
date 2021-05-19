@@ -1,4 +1,4 @@
-package com.jsonwhere;
+package com.study.jsonwhere;
 
 import com.alibaba.fastjson.JSONObject;
 import net.sf.jsqlparser.expression.*;
